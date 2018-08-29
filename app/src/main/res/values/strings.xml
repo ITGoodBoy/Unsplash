@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    <string name="search">Search</string>
+    <string name="not_internet">Нет интернета</string>
+    <string name="server_error">Ошибка сервера</string>
+    <string name="dialog_wallpapers_title">Смена обой</string>
+    <string name="dialog_wallpapers_message">Вы уверены что хотите сменить обои?</string>
+    <string name="dialog_wallpapers_cancel">Отмена</string>
+    <string name="dialpg_wallpapers_set">Сменить</string>
+    <string name="retry">Повторить</string>
+
+</resources>
